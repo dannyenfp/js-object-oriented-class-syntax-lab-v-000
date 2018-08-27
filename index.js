@@ -9,6 +9,16 @@ class BoardMember {
     return 'No, I must disagree';
   }
   
+  approve() { 
+    return 'You can do that!';
+  }
   
+  doCharity() {
+    return 'I like to helpe people.';
+  }
+  
+  releasePressStatement() { 
+  return 'You will see great things from Scuber.';
+  }
 }
  
